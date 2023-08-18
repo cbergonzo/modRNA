@@ -7,51 +7,17 @@ required files with approved text. For details, please consult
 the Office of Data & Informatics' [Quickstart Guide to GitHub at
 NIST][gh-odi].
 
-Please click on the green **Use this template** button above to
-create a new repository under the [usnistgov][gh-nst]
-organization for your own open-source work. Please do not "fork"
-the repository directly, and do not create the templated
-repository under your individual account.
-
-The key files contained in this repository -- which will also
-appear in templated copies -- are listed below, with some things
-to know about each.
-
 ---
 
 ## README
 
-Each repository will contain a plain-text [README file][wk-rdm],
-preferably formatted using [GitHub-flavored Markdown][gh-mdn] and
-named `README.md` (this file) or `README`.
-
-Per the [GitHub ROB][gh-rob] and [NIST Suborder 1801.02][nist-s-1801-02],
-your README should contain:
-
 1. Software or Data description
-   - Statements of purpose and maturity
-   - Description of the repository contents
-   - Technical installation instructions, including operating
-     system or software dependencies
-1. Contact information
-   - PI name, NIST OU, Division, and Group names
-   - Contact email address at NIST
-   - Details of mailing lists, chatrooms, and discussion forums,
-     where applicable
-1. Related Material
-   - URL for associated project on the NIST website or other Department
-     of Commerce page, if available
-   - References to user guides if stored outside of GitHub
-1. Directions on appropriate citation with example text
-1. References to any included non-public domain software modules,
-   and additional license language if needed, *e.g.* [BSD][li-bsd],
-   [GPL][li-gpl], or [MIT][li-mit]
-
-The more detailed your README, the more likely our colleagues
-around the world are to find it through a Web search. For general
-advice on writing a helpful README, please review
-[*Making Readmes Readable*][18f-guide] from 18F and Cornell's
-[*Guide to Writing README-style Metadata*][cornell-meta].
+   - The data conatined in this repository is under development. 
+   - It includes MD force field parameters for modified RNA.
+   - Modifications follow ff9 charge conventions.
+2. Contact information
+   - Christina Bergonzo, NIST MML, 645.03; Rodrigo Galindo-Murillo, Ionis Pharmaceuticals 
+   - christina.bergonzo@nist.gov
 
 ## LICENSE
 
