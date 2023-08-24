@@ -1,0 +1,8 @@
+# 09/20/21 14:21:55
+# Args:  -p 2prF.pdb
+# Loaded topologies:
+#   2prF.pdb
+trajin 2prF.pdb
+trajout 2prF.mol2
+go
+quit
